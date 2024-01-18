@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Protofolio</string>
+    <string name="hey_i_am_sam_ready_to_work">Hey I am Domnic Toretto\nReady to Race...</string>
+    <string name="domnic">Domnic</string>
+    <string name="get_in_touch">Get In Touch</string>
+    <string name="logo">Logo</string>
+    <string name="profile_pic">Profile Pic</string>
+    <string name="i_am_a_android_developer_in_cedcoss"> “You know this ain’t no 10-second race.”\n“I’ve got nothing but time.”\n“It doesn’t matter whether you win by an inch\n or a mile, winning is winning.”</string>
+    <string name="image">Image</string>
+</resources>
